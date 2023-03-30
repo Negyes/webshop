@@ -1,0 +1,25 @@
+Project: A Minecraft egy homokozó játék, amelyet a Mojang Studios fejlesztett. A
+játékot Markus "Notch" Persson készítette Java programozási nyelven.
+Több korai privát tesztverziót követően először 2009 májusában hozták nyilvánosságra, 
+majd 2011 novemberében adták ki teljesen, amikor Notch lemondott, és Jens "Jeb" Bergensten vette át a fejlesztést.
+A Minecraft a történelem legkelendőbb videojátéka, több mint 238 millió eladott példányával
+és közel 140 millió havi aktív játékossal 2021-ig, és több platformra is portolták.
+Ehez a játékhoz hoztunk létre egy online bevásárlói weboldalt, ahol a felhasználok
+különféle kiegészítőt tudnak vásárolni a játékosok/felhasználok.
+
+
+Norbi: html alapja, CSS formázás, elrendezés, design, adatbázis, összekötés, külalak.
+
+
+Bence: Háttér munka, formázás, CSS formázás, animációk, iconok.
+
+
+Olivér: online kutatás, külön féle platformok létrehozása, és beállítása.
+
+weboldal: https://bolt.extremegod.hu/
+platformok: https://dc.extremegod.hu/
+webkezelő: https://panel.extremegod.hu/
+
+© © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © © ©  
+ExtremeGOD is not in any way affiliated with or supported by Minecraft, Mojang AB and/or Microsoft. 
+“Minecraft” is a trademark of Mojang Synergies AB.
